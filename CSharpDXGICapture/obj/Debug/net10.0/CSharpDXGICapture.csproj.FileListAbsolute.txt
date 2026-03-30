@@ -1,0 +1,15 @@
+D:\Programming\projects\AI Osu!\AI_OSU\CSharpDXGICapture\bin\Debug\net10.0\CSharpDXGICapture.exe
+D:\Programming\projects\AI Osu!\AI_OSU\CSharpDXGICapture\bin\Debug\net10.0\CSharpDXGICapture.deps.json
+D:\Programming\projects\AI Osu!\AI_OSU\CSharpDXGICapture\bin\Debug\net10.0\CSharpDXGICapture.runtimeconfig.json
+D:\Programming\projects\AI Osu!\AI_OSU\CSharpDXGICapture\bin\Debug\net10.0\CSharpDXGICapture.dll
+D:\Programming\projects\AI Osu!\AI_OSU\CSharpDXGICapture\bin\Debug\net10.0\CSharpDXGICapture.pdb
+D:\Programming\projects\AI Osu!\AI_OSU\CSharpDXGICapture\obj\Debug\net10.0\CSharpDXGICapture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\projects\AI Osu!\AI_OSU\CSharpDXGICapture\obj\Debug\net10.0\CSharpDXGICapture.AssemblyInfoInputs.cache
+D:\Programming\projects\AI Osu!\AI_OSU\CSharpDXGICapture\obj\Debug\net10.0\CSharpDXGICapture.AssemblyInfo.cs
+D:\Programming\projects\AI Osu!\AI_OSU\CSharpDXGICapture\obj\Debug\net10.0\CSharpDXGICapture.csproj.CoreCompileInputs.cache
+D:\Programming\projects\AI Osu!\AI_OSU\CSharpDXGICapture\obj\Debug\net10.0\CSharpDXGICapture.sourcelink.json
+D:\Programming\projects\AI Osu!\AI_OSU\CSharpDXGICapture\obj\Debug\net10.0\CSharpDXGICapture.dll
+D:\Programming\projects\AI Osu!\AI_OSU\CSharpDXGICapture\obj\Debug\net10.0\refint\CSharpDXGICapture.dll
+D:\Programming\projects\AI Osu!\AI_OSU\CSharpDXGICapture\obj\Debug\net10.0\CSharpDXGICapture.pdb
+D:\Programming\projects\AI Osu!\AI_OSU\CSharpDXGICapture\obj\Debug\net10.0\CSharpDXGICapture.genruntimeconfig.cache
+D:\Programming\projects\AI Osu!\AI_OSU\CSharpDXGICapture\obj\Debug\net10.0\ref\CSharpDXGICapture.dll
