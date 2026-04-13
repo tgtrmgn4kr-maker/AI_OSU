@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ox7+ub7Kijg=",
+  "dgSpecHash": "46atBQolc6o=",
   "success": true,
-  "projectFilePath": "D:\\Programming\\projects\\AI Osu!\\AI_OSU\\CSharpDXGICapture\\CSharpDXGICapture.csproj",
+  "projectFilePath": "C:\\Users\\user\\OneDrive - OWENOWN\\桌面\\AI_OSU\\CSharpDXGICapture\\CSharpDXGICapture.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\sharpgen.runtime\\2.4.2-beta\\sharpgen.runtime.2.4.2-beta.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\sharpgen.runtime.com\\2.4.2-beta\\sharpgen.runtime.com.2.4.2-beta.nupkg.sha512",

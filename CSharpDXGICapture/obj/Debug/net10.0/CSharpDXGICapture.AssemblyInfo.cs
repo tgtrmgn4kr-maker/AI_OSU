@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpDXGICapture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+570c1b1a683834965c36a138126de8beb99c3b1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa040847495b410729994516b37f3d51a970977e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpDXGICapture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpDXGICapture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

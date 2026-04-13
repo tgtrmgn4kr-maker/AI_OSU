@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\projects\\AI Osu!\\AI_OSU\\CSharpDXGICapture\\CSharpDXGICapture.csproj": {}
+    "C:\\Users\\user\\OneDrive - OWENOWN\\桌面\\AI_OSU\\CSharpDXGICapture\\CSharpDXGICapture.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\projects\\AI Osu!\\AI_OSU\\CSharpDXGICapture\\CSharpDXGICapture.csproj": {
+    "C:\\Users\\user\\OneDrive - OWENOWN\\桌面\\AI_OSU\\CSharpDXGICapture\\CSharpDXGICapture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\projects\\AI Osu!\\AI_OSU\\CSharpDXGICapture\\CSharpDXGICapture.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive - OWENOWN\\桌面\\AI_OSU\\CSharpDXGICapture\\CSharpDXGICapture.csproj",
         "projectName": "CSharpDXGICapture",
-        "projectPath": "D:\\Programming\\projects\\AI Osu!\\AI_OSU\\CSharpDXGICapture\\CSharpDXGICapture.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive - OWENOWN\\桌面\\AI_OSU\\CSharpDXGICapture\\CSharpDXGICapture.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\projects\\AI Osu!\\AI_OSU\\CSharpDXGICapture\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive - OWENOWN\\桌面\\AI_OSU\\CSharpDXGICapture\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,7 +40,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
